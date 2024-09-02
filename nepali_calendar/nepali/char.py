@@ -11,12 +11,12 @@ MONTHS_MAP = {
     "साउन": "Sharwan",
     "भदौ": "Bhadra",
     "असोज": "Ashwin",
-    "कात्तिक": "Kartik",
+    "कार्त्तिक": "Kartik",
     "मंसिर": "Mangsir",
-    "पुस": "Poush",
+    "पाैष": "Poush",
     "माघ": "Magh",
     "फागुन": "Falgun",
-    "चैत": "Chaitra",
+    "चैत्र": "Chaitra",
 }
 
 DAYS_MAP = {
