@@ -11,12 +11,12 @@ MONTHS_MAP = {
     "साउन": "Sharwan",
     "भदौ": "Bhadra",
     "असोज": "Ashwin",
-    "कात्तिक": "Kartik",
+    "कार्त्तिक": "Kartik",
     "मंसिर": "Mangsir",
-    "पुस": "Poush",
+    "पाैष": "Poush",
     "माघ": "Magh",
     "फागुन": "Falgun",
-    "चैत": "Chaitra",
+    "चैत्र": "Chaitra",
 }
 
 DAYS_MAP = {
@@ -40,9 +40,9 @@ HALF_DAYS_MAP = {
 }
 
 AM_PM_MAP = {
-    "शुभप्रभात": "AM",
-    "मध्यान्ह": "PM",
-    "अपरान्ह": "PM",
+    "बिहान": "AM", #upto 11.59am
+    "मध्यान्ह": "PM", # approx 12-5 pm
+    "अपरान्ह": "PM", # approx 5 pm onwards
 }
 
 

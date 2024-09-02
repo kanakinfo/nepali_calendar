@@ -39,7 +39,7 @@ _location_data = [
                     },
                     {
                         "name": "Jagannath Rural Municipality",
-                        "name_nepali": "जगन्नाथगाउँपालिका",
+                        "name_nepali": "जगन्नाथ गाउँपालिका",
                         "municipality_type": "Rural Municipality",
                     },
                     {

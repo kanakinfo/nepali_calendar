@@ -24,7 +24,7 @@ class Operator(Enum):
 
 def is_mobile_number(number: str) -> bool:
     """
-    Returns True is the input number is mobile number.
+    Returns True if the input number is mobile number.
 
     >>> is_mobile = is_mobile_number(number)
     >>> if is_mobile:
@@ -38,7 +38,7 @@ def is_mobile_number(number: str) -> bool:
 
 def is_landline_number(number: str) -> bool:
     """
-    Returns True is the input number is mobile number.
+    Returns True if the input number is a landline number.
 
     >>> is_mobile = is_mobile_number(number)
     >>> if is_mobile:
