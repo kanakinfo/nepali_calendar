@@ -40,9 +40,9 @@ HALF_DAYS_MAP = {
 }
 
 AM_PM_MAP = {
-    "शुभप्रभात": "AM",
-    "मध्यान्ह": "PM",
-    "अपरान्ह": "PM",
+    "बिहान": "AM", #upto 11.59am
+    "मध्यान्ह": "PM", # approx 12-5 pm
+    "अपरान्ह": "PM", # approx 5 pm onwards
 }
 
 
